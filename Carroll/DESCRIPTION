@@ -1,0 +1,10 @@
+Package: Carroll
+Type: Package
+Title: Confidence interval for a population mean
+Version: 0.1.0
+Author: Benjamin Carroll
+Maintainer: bcarroll1@mail.usf.edu
+Description: A function which calculates a 95% confidence interval for a populaiton mean.  
+License: GNU
+Encoding: UTF-8
+LazyData: true
